@@ -13,7 +13,6 @@ public class A460 {
                 n++;  
             }
         }
-
         System.out.println(days);
         sc.close();
     }

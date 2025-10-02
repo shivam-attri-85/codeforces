@@ -11,9 +11,7 @@ public class A492 {
                 break;
             }
             lv++;
-
         }
-
         System.out.println(lv);
 
         sc.close();
