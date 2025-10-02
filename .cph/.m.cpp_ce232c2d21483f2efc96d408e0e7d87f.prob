@@ -1,0 +1,1 @@
+{"name":"Local: m","url":"c:\\Users\\shiva\\Desktop\\CODING\\codeforces\\m.cpp","tests":[{"id":1758812758640,"input":"3\n3\n-1 0 1\n4\n-1 -1 0 1\n5\n-1 -1 -1 0 0\n","output":"3\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shiva\\Desktop\\CODING\\codeforces\\m.cpp","group":"local","local":true}
